@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robocard-react/static/css/main.1aee2657.chunk.css",
+    "main.js": "/robocard-react/static/js/main.4afee39f.chunk.js",
+    "main.js.map": "/robocard-react/static/js/main.4afee39f.chunk.js.map",
+    "runtime-main.js": "/robocard-react/static/js/runtime-main.34388462.js",
+    "runtime-main.js.map": "/robocard-react/static/js/runtime-main.34388462.js.map",
+    "static/js/2.d6c7a567.chunk.js": "/robocard-react/static/js/2.d6c7a567.chunk.js",
+    "static/js/2.d6c7a567.chunk.js.map": "/robocard-react/static/js/2.d6c7a567.chunk.js.map",
+    "static/js/3.ce758456.chunk.js": "/robocard-react/static/js/3.ce758456.chunk.js",
+    "static/js/3.ce758456.chunk.js.map": "/robocard-react/static/js/3.ce758456.chunk.js.map",
+    "index.html": "/robocard-react/index.html",
+    "static/css/main.1aee2657.chunk.css.map": "/robocard-react/static/css/main.1aee2657.chunk.css.map",
+    "static/js/2.d6c7a567.chunk.js.LICENSE.txt": "/robocard-react/static/js/2.d6c7a567.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34388462.js",
+    "static/js/2.d6c7a567.chunk.js",
+    "static/css/main.1aee2657.chunk.css",
+    "static/js/main.4afee39f.chunk.js"
+  ]
+}
